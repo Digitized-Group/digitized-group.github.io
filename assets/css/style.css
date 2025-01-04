@@ -16,3 +16,8 @@
 body{
     font-family: 'Vazirmatn';
 }
+::marker{
+  /* list-style: none; */
+  /* display: none */
+  content: "";
+}
